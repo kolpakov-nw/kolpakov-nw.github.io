@@ -4,8 +4,8 @@ body{
     background-color: #4f4f51;
 }
 #display {
-    width: 295px;
-    height: 29px;   
+    width: 240px;
+    height: 25px;   
     font-size: 25px;
     padding: 5px;
     color:rgb(0, 0, 0);
