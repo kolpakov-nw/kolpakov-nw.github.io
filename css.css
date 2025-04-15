@@ -1,0 +1,36 @@
+body{
+    font-family: Marker Felt, fantasy;
+    text-align: center;
+    background-color: #4f4f51;
+}
+#display {
+    width: 295px;
+    height: 29px;   
+    font-size: 25px;
+    padding: 5px;
+    color:rgb(0, 0, 0);
+
+
+}
+button {
+    width:50px;
+    height:50px;
+    margin: 5px;
+    font-size: 18;
+    border:#626262;
+    background-color:#757575;
+    color: rgb(17, 16, 16);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 10px 10px;
+
+
+}
+button:hover {
+    background-color: #414141;
+}
+
+button:active {
+    background-color: #807f7f;
+
+}
